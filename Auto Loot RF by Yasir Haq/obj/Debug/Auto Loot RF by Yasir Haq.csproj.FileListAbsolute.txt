@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Auto Loot RF by Yasir Haq\Auto Loot RF by Yasir Haq\bin\Debug\Auto Loot RF by Yasir Haq.exe.config
+C:\Users\user\source\repos\Auto Loot RF by Yasir Haq\Auto Loot RF by Yasir Haq\bin\Debug\Auto Loot RF by Yasir Haq.exe
+C:\Users\user\source\repos\Auto Loot RF by Yasir Haq\Auto Loot RF by Yasir Haq\bin\Debug\Auto Loot RF by Yasir Haq.pdb
+C:\Users\user\source\repos\Auto Loot RF by Yasir Haq\Auto Loot RF by Yasir Haq\obj\Debug\Auto Loot RF by Yasir Haq.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Auto Loot RF by Yasir Haq\Auto Loot RF by Yasir Haq\obj\Debug\Auto_Loot_RF_by_Yasir_Haq.Form1.resources
+C:\Users\user\source\repos\Auto Loot RF by Yasir Haq\Auto Loot RF by Yasir Haq\obj\Debug\Auto_Loot_RF_by_Yasir_Haq.Properties.Resources.resources
+C:\Users\user\source\repos\Auto Loot RF by Yasir Haq\Auto Loot RF by Yasir Haq\obj\Debug\Auto Loot RF by Yasir Haq.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Auto Loot RF by Yasir Haq\Auto Loot RF by Yasir Haq\obj\Debug\Auto Loot RF by Yasir Haq.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Auto Loot RF by Yasir Haq\Auto Loot RF by Yasir Haq\obj\Debug\Auto Loot RF by Yasir Haq.exe
+C:\Users\user\source\repos\Auto Loot RF by Yasir Haq\Auto Loot RF by Yasir Haq\obj\Debug\Auto Loot RF by Yasir Haq.pdb
