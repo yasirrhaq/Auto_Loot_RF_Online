@@ -1,6 +1,7 @@
-# Auto Loot RF Online by Yasir Haq
+# Auto Loot RF Online
 
-![image](https://user-images.githubusercontent.com/41731559/68206293-fe9d2b80-fffe-11e9-8af2-8dba79f74e6f.png)
+![image](https://github.com/leagueplayer24/Auto_Loot_RF_Online/assets/41731559/aac83626-be36-48ce-bd8c-d3752fc72fb9)
+
 
 
 ##  How to use :
